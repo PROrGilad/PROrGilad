@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello there I'm Or Gilad 👋
+### Hello there! I'm Or Gilad 👋
 
 This is my main GitHub account.
 
