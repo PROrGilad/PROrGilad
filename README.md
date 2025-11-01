@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **PROrGilad/PROrGilad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hello there 👋
+
+This is my main GitHub account.
+
+### My Stats 📊
+
+<p align="left">
+<a href="https://github.com/PROrGilad?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=PROrGilad&theme=vue&count_private=true&show_icons=true&hide=issues" alt="github readme stats" height="150" width="400"/></a>
+<a href="https://github.com/PROrGilad?tab=repositories"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PROrGilad&theme=vue&layout=compact" alt="top langs" height="150" width="310"/></a>
+</p>
